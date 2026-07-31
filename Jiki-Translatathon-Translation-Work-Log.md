@@ -48,3 +48,30 @@ I explained that **“benvenuto nel”** is used when entering a place or a grou
 I also noted that Italian distinguishes between two types of *moto a luogo* (“movement toward a place”): a literal one (entering a physical location) and a figurative one (entering a context or an activity). “Benvenuto nel team/forum” uses the figurative sense of entering a context, whereas “Benvenuto al corso/esercizio” uses the figurative sense of entering an activity or event. This is why “Benvenuto al tuo primo esercizio” is the natural phrasing.
 
 The clarification was appreciated, and the translation was updated accordingly.
+
+### Using Functions — Summary
+
+During the review, several stylistic and linguistic issues were identified in the Italian adaptation of the course text.
+
+1. **Redundancy in character introduction**
+   The original phrasing repeated “Jiki” multiple times in close succession (“Tutto il corso prende il nome da lui. Lui è Jiki. Jiki sarà il tuo amico…”).  
+   Italian avoids unnecessary repetition, so a more natural structure was proposed:
+   - “L’intero corso prende il suo nome: Jiki sarà il tuo amico in questo viaggio nella programmazione.”
+
+2. **Correction of non‑idiomatic expression**
+   The phrase “negli uni e zeri” is not idiomatic in Italian.  
+   It was replaced with correct technical terminology:
+   - “codice binario”
+   - “0 e 1”
+   - “sequenze di 0 e 1”
+
+3. **Full revised Italian adaptation**
+   A smoother and more natural version of the introductory paragraph was produced:
+
+   > “Quando scrivi codice, in realtà stai comunicando al computer ciò che vuoi che accada, usando un linguaggio che lui può comprendere. Esistono tantissimi linguaggi di programmazione diversi e altrettanti strumenti che prendono ciò che scrivi e lo trasformano in codice binario, quei 0 e 1 su cui il computer può davvero agire.  
+   >  
+   > In questo corso, il tuo compagno di viaggio sarà Jiki: il personaggio che dà il nome all’intero percorso. Il suo compito è interpretare il codice che scrivi e convertirlo nel formato che il computer può eseguire.”
+
+4. **Final revision note**
+   Final revision — this is the best adaptation for now, waiting to see what other native speakers think.
+
