@@ -24,3 +24,15 @@ For **streak**, I identified that *serie* is not a valid translation, as it does
 **Proposed action:** use *giorni di slancio*, which is already adopted by Duolingo and better reflects the intended meaning.
 
 I also added a linguistic note regarding pseudo‑English expressions commonly used in Italian (e.g., *smart working*), highlighting the need for careful evaluation of English technical terms to avoid unnatural translations.
+
+Follow‑up discussion on “streak” translation
+
+After proposing the shift from “serie” to “slancio” / “giorni di slancio”, the maintainers asked for two confirmations before finalizing the change:
+
+1. Whether **“slancio”** works on its own as a UI label in places where only a single word appears above a number.
+2. Whether **“una serie di 5 giorni”** should become **“uno slancio di 5 giorni”**, and if the gender/article usage is correct.
+
+I confirmed that **“slancio”** works perfectly well as a standalone UI label. It is short, clear, and immediately understandable even without additional context, making it suitable for minimal UI layouts (e.g., “Slancio 5”). It conveys the idea of momentum and continuity more effectively than “serie”.
+
+I also confirmed that **“uno slancio di 5 giorni”** is grammatically correct. “Slancio” is masculine, so the article “uno” is appropriate, and the construction “di X giorni” sounds natural in Italian. This phrasing aligns with how Italian speakers would describe an unbroken run of consecutive days.
+
