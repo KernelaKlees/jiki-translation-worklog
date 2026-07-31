@@ -12,6 +12,9 @@ During the review of the Italian tooltips, I identified two issues:
 
 Since these tooltips come from Video.js, I evaluated whether the correct procedure was to open an issue directly on Video.js or report the findings within the Translatathon first. After reviewing the context, I proceeded to open an issue on the Video.js GitHub repository to report the missing tooltip and the unnatural PiP wording.
 
+Follow‑up on issue discussion
+
+After providing the clarification on the Italian phrasing, another contributor responded positively and noted that the adjustments looked like quick fixes to apply. This indicates that the corrections were well‑received and considered straightforward to implement. I acknowledged this and confirmed that the changes were indeed simple, offering further clarification on the Italian side if needed.
 
 #### Italian glossary – Core Decisions review
 
