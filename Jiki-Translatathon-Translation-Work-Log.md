@@ -36,3 +36,12 @@ I confirmed that **“slancio”** works perfectly well as a standalone UI label
 
 I also confirmed that **“uno slancio di 5 giorni”** is grammatically correct. “Slancio” is masculine, so the article “uno” is appropriate, and the construction “di X giorni” sounds natural in Italian. This phrasing aligns with how Italian speakers would describe an unbroken run of consecutive days.
 
+#### Exercise: Solve the Maze – Italian phrasing clarification
+
+While reviewing the Italian translation for the “Solve the Maze” exercise, I provided a detailed explanation regarding the correct phrasing of “Ti diamo il benvenuto al tuo primo esercizio”. The original version (“Ti diamo il benvenuto nel tuo primo esercizio”) sounded unnatural in Italian, so I clarified why “al” is the appropriate choice.
+
+I explained that **“benvenuto nel”** is used when entering a place or a group (e.g., *Benvenuto nel team*, *Benvenuto nel forum*), while **“benvenuto al”** is used when entering an activity, event, or exercise (e.g., *Benvenuto al corso*, *Benvenuto al tuo primo giorno*, *Benvenuto al tuo primo esercizio*).
+
+I also noted that Italian distinguishes between two types of *moto a luogo* (“movement toward a place”): a literal one (entering a physical location) and a figurative one (entering a context or an activity). “Benvenuto nel team/forum” uses the figurative sense of entering a context, whereas “Benvenuto al corso/esercizio” uses the figurative sense of entering an activity or event. This is why “Benvenuto al tuo primo esercizio” is the natural phrasing.
+
+The clarification was appreciated, and the translation was updated accordingly.
