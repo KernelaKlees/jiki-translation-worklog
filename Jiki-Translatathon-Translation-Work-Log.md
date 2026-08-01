@@ -1,6 +1,6 @@
-## 1. Work Sessions
+## 📅 1. Worklog 
 
-### 31 July 2026
+### 🗓️ 31 July 2026
 
 #### Italian video player
 
@@ -74,4 +74,14 @@ During the review, several stylistic and linguistic issues were identified in th
 
 4. **Final revision note**
    Final revision — this is the best adaptation for now, waiting to see what other native speakers think.
+
+### 🗓️ 1 August 2026
+Reviewed and refined the Italian adaptation of the introductory course text.  
+Addressed redundancy in character introduction, corrected non‑idiomatic expressions, and produced a smoother, more natural final version.
+
+Aligned with the intended “human translator” interpretation of Jiki after discussion with the project maintainer Jeremy Walker (iHiD).
+Provided initial revisions and responded to stylistic feedback; further adjustments will be handled by other contributors.
+
+**Status:** this part of the work is complete and the agreed direction is now clear.
+
 
