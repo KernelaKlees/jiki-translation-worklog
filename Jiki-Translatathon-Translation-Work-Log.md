@@ -112,6 +112,19 @@ and proposed a more natural adaptation:
 
 I asked for feedback on this adaptation, as I am reviewing the translation piece by piece and adding my notes in a single post to avoid creating multiple threads.
 
+
+
 I added a clarification in the discussion regarding the translation of branch. I explained that “ramo” is the correct and consistent technical equivalent in decision‑tree contexts, even if in this specific sentence it may sound less clear. I noted that alternatives such as “diramazione”, “percorso”, “condizione” or “caso” can work in certain nuances, but they do not fully match the meaning of branch and cannot be used interchangeably. I suggested keeping “ramo” as a univocal term to maintain terminological consistency across the project.
 
 This concludes my contribution on this part of the project.
+
+#### Exercise: Solve the Maze – Italian phrasing clarification
+
+I made two adjustments in the discussion.  
+First, I clarified that “farti prendere confidenza” is an unnatural expression in Italian because it is a literal translation from English, and that “familiarizzare” is a more appropriate and natural choice.  
+
+Second, I refined the descriptions of move(), turnLeft(), and turnRight() by removing the redundant “che”, which does not add meaning and makes the sentences heavier.  
+
+I also added a brief note explaining that “dashboard” is typically left unchanged in Italian in technical, corporate, and IT contexts, since the term is widely understood by Italian professionals and users.  
+
+The rest looks fine to me.
