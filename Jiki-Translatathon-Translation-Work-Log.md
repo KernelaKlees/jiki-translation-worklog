@@ -1,5 +1,5 @@
-## 📅 1. Worklog 
-
+## 📅 1. Worklog – Jiki Translatathon (31 July–2 August)
+ 
 ### 🗓️ 31 July 2026
 
 #### Italian video player
@@ -84,4 +84,11 @@ Provided initial revisions and responded to stylistic feedback; further adjustme
 
 **Status:** this part of the work is complete and the agreed direction is now clear.
 
+### Italian Review – Concept Page: Creating and Using Variables
 
+I opened the review thread for the Italian translation of the Jiki concept “Creating and Using Variables”.
+
+In this session I focused only on the first part of the page.  
+I reviewed the initial paragraphs and shared my suggestions to improve naturalness and flow, especially around the metaphor of the “magazzino di Jiki” and the description of the scaffali and scatole.
+
+At this stage I have not yet reviewed or checked FraSanga’s reply; my contribution was limited to commenting on the first section of the text.
