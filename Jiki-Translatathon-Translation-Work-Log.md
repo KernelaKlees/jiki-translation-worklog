@@ -128,3 +128,14 @@ Second, I refined the descriptions of move(), turnLeft(), and turnRight() by rem
 I also added a brief note explaining that “dashboard” is typically left unchanged in Italian in technical, corporate, and IT contexts, since the term is widely understood by Italian professionals and users.  
 
 The rest looks fine to me.
+
+#### Exercise: Dietrofront
+
+I added a clarification regarding the term “dietrofront”. I explained that it is not a natural choice in this context, as it is a strictly military expression and sounds like an order given during a drill. This makes it overly formal and out of place in simple movement commands.  
+
+I noted that a neutral and appropriate equivalent for “turn around” is “girarsi”, which fits standard movement instructions without introducing unintended military connotations.  
+
+I also added a light remark to soften the critique, pointing out that maybe I am at war with JavaScript, but the users definitely aren’t, so “dietrofront” should be avoided here. 😅  
+
+Everything else is fine.
+
