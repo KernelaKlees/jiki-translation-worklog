@@ -111,3 +111,7 @@ and proposed a more natural adaptation:
 “Sei tornato al tuo lavoro occasionale come buttafuori, e stasera lavori in un locale con un codice di abbigliamento rigido.”
 
 I asked for feedback on this adaptation, as I am reviewing the translation piece by piece and adding my notes in a single post to avoid creating multiple threads.
+
+I added a clarification in the discussion regarding the translation of branch. I explained that “ramo” is the correct and consistent technical equivalent in decision‑tree contexts, even if in this specific sentence it may sound less clear. I noted that alternatives such as “diramazione”, “percorso”, “condizione” or “caso” can work in certain nuances, but they do not fully match the meaning of branch and cannot be used interchangeably. I suggested keeping “ramo” as a univocal term to maintain terminological consistency across the project.
+
+This concludes my contribution on this part of the project.
