@@ -75,7 +75,7 @@ During the review, several stylistic and linguistic issues were identified in th
 4. **Final revision note**
    Final revision — this is the best adaptation for now, waiting to see what other native speakers think.
 
-### 🗓️ 1 August 2026
+### 🗓️ 1 August 
 Reviewed and refined the Italian adaptation of the introductory course text.  
 Addressed redundancy in character introduction, corrected non‑idiomatic expressions, and produced a smoother, more natural final version.
 
@@ -92,3 +92,20 @@ In this session I focused only on the first part of the page.
 I reviewed the initial paragraphs and shared my suggestions to improve naturalness and flow, especially around the metaphor of the “magazzino di Jiki” and the description of the scaffali and scatole.
 
 At this stage I have not yet reviewed or checked FraSanga’s reply; my contribution was limited to commenting on the first section of the text.
+
+### 🗓️ 2 August 
+
+### Italian Review – Exercise: Bouncer: Dress Code
+
+Today I checked the new review thread for the Italian translation of the exercise “Bouncer: Dress Code”.
+
+My contribution in this session focused on the beginning of the exercise.  
+I reviewed the opening sentence:
+
+“Sei di nuovo al tuo secondo lavoro da buttafuori, e stasera lavori in un locale con un dress code rigoroso.”
+
+and proposed a more natural adaptation:
+
+“Sei tornato al tuo lavoro occasionale come buttafuori, e stasera lavori in un locale con un codice di abbigliamento rigido.”
+
+I asked for feedback on this adaptation, as I am reviewing the translation piece by piece and adding my notes in a single post to avoid creating multiple threads.
