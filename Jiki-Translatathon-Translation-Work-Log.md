@@ -104,6 +104,8 @@ I reviewed the opening sentence:
 
 “Sei di nuovo al tuo secondo lavoro da buttafuori, e stasera lavori in un locale con un dress code rigoroso.”
 
+In this session I continued reviewing the English source text and adapted several short phrases and titles into natural Italian. I focused on clarity, register, and contextual accuracy (especially for hospitality‑related expressions and coding terminology). I prepared formatted forum‑ready blocks for each item, including block quotes, Italian adaptations, and explanatory notes in English when needed. My contribution was limited to revising and adapting the selected phrases; I did not work on other sections of the page.
+
 and proposed a more natural adaptation:
 
 “Sei tornato al tuo lavoro occasionale come buttafuori, e stasera lavori in un locale con un codice di abbigliamento rigido.”
