@@ -158,3 +158,15 @@ Read the proposed improvements regarding the sentence about drawing rectangles a
 Read the suggestion to keep variable names in English (top, left, height, width) and highlight them as variables.
 
 Confirmed that, for me, the proposed changes were fine and I had no additional issues to report.
+
+### Exercise: Rolling Ball
+
+Followed the review thread opened by another contributor.
+
+Read the discussion about the term “tee” and the alternative “chiodino”.
+
+Left my comment explaining that the main issue for me was the verb tense in the Italian translation of “The ball rolled to {{ballX}}”. I noted that “rotolare” can stay if preferred, but “spostata” is more precise. I explained that English uses past simple in technical descriptions, while Italian usually prefers present or a resultative form, making a literal past tense sound less natural.
+
+Added that “tee” is perfectly fine in Italian, as it is commonly used in Italian golf terminology.
+
+Confirmed that I was good with the rest.
