@@ -141,6 +141,27 @@ Everything else is fine.
 
 ### 🗓️ 3 August
 
+### Exercise: Rock, Paper, Scissors (follow‑up thread)
+
+Followed the review thread opened by another contributor.
+
+Added my comment explaining that “annunciare” is too formal in this context and sounds like something from a ceremony or a presenter.
+
+Suggested using “comunicare” instead, as it fits better with the logic of the code (we’re determining the winner, not announcing them like at an award show).
+
+Corrected the sentence:
+il vincitore alla sala di gioco.
+to the more natural and idiomatic:
+il vincitore in sala giochi.
+
+Suggested replacing:
+e hanno scelto la stessa cosa.
+with:
+se hanno pareggiato.
+explaining that “pareggiare” maps directly to “tie” and is shorter, clearer, and more natural in Italian.
+
+Confirmed that everything else worked for me.
+
 ### Exercise: Traffic Lights
 
 Opened thread: This is a thread for reviewing the Italian translation of the exercise Traffic Lights.
@@ -149,7 +170,7 @@ Added note on terminology: specified that “radius” corresponds to “raggio�
 
 Checked the rest of the exercise and confirmed: no issues with the rest.
 
-### Exercise: Fix the Wall
+### Exercise: Fix the Wall (follow‑up thread)
 
 Followed the review thread opened by another contributor.
 
@@ -159,7 +180,7 @@ Read the suggestion to keep variable names in English (top, left, height, width)
 
 Confirmed that, for me, the proposed changes were fine and I had no additional issues to report.
 
-### Exercise: Rolling Ball
+### Exercise: Rolling Ball (follow‑up thread)
 
 Followed the review thread opened by another contributor.
 
@@ -171,7 +192,7 @@ Added that “tee” is perfectly fine in Italian, as it is commonly used in Ita
 
 Confirmed that I was good with the rest.
 
-### Exercise: Foxy Face
+### Exercise: Foxy Face (follow‑up thread)
 
 Followed the review thread opened by another contributor.
 
