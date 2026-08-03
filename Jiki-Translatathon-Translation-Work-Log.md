@@ -139,3 +139,12 @@ I also added a light remark to soften the critique, pointing out that maybe I am
 
 Everything else is fine.
 
+### 🗓️ 3 August
+
+### Exercise: Traffic Lights
+
+Opened thread: This is a thread for reviewing the Italian translation of the exercise Traffic Lights.
+
+Added note on terminology: specified that “radius” corresponds to “raggio” if you want to be accurate in Italian.
+
+Checked the rest of the exercise and confirmed: no issues with the rest.
