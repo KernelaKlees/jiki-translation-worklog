@@ -170,3 +170,21 @@ Left my comment explaining that the main issue for me was the verb tense in the 
 Added that “tee” is perfectly fine in Italian, as it is commonly used in Italian golf terminology.
 
 Confirmed that I was good with the rest.
+
+### Exercise: Foxy Face
+
+Followed the review thread opened by another contributor.
+
+Read the proposed changes regarding the symmetry sentence, the use of “viso” vs “faccia”, and the updated description for drawFox.
+
+Added my correction to the sentence:
+Il tuo compito è usare “i” triangoli per costruire una faccia di volpe geometrica:
+explaining that in Italian the article is needed because “i triangoli” refers to a specific set of shapes required for the exercise.
+
+Applied the same correction to:
+Usa “i” triangoli per costruire la faccia geometrica della volpe sullo sfondo grigio.
+
+Added my comment noting that “muso” refers only to the snout/mouth area and not the whole face.
+
+Confirmed that I agreed with the proposed fixes and that everything looked good to me.
+
