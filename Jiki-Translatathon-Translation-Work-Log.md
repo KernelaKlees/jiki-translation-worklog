@@ -148,3 +148,13 @@ Opened thread: This is a thread for reviewing the Italian translation of the exe
 Added note on terminology: specified that “radius” corresponds to “raggio” if you want to be accurate in Italian.
 
 Checked the rest of the exercise and confirmed: no issues with the rest.
+
+### Exercise: Fix the Wall
+
+Followed the review thread opened by another contributor.
+
+Read the proposed improvements regarding the sentence about drawing rectangles and the clarification on distances (top/left).
+
+Read the suggestion to keep variable names in English (top, left, height, width) and highlight them as variables.
+
+Confirmed that, for me, the proposed changes were fine and I had no additional issues to report.
