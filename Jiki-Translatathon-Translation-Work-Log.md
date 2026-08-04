@@ -211,8 +211,14 @@ Confirmed that I agreed with the proposed fixes and that everything looked good 
 
 ### 🗓️ 4 August 
 
-###  Exercise: Skyline
+###  Exercise: Skyline - Grattacielo
 
 Reviewed the Italian translation of the exercise “Skyline”.
 Noted that “ha costruito un’entrata” is acceptable in general usage, but in construction terminology the more precise term is “ingresso”.
 No other issues found; the rest of the translation works well.
+
+### Exercise: Build the Wall - Costruisci il muro
+
+“Only a tiny detail: larghezza radiale and altezza radiale are correct, but in graphics we usually say raggio orizzontale and raggio verticale.”
+
+The rest works for me.
