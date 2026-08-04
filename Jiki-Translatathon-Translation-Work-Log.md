@@ -209,3 +209,10 @@ Added my comment noting that “muso” refers only to the snout/mouth area and 
 
 Confirmed that I agreed with the proposed fixes and that everything looked good to me.
 
+### 🗓️ 4 August 
+
+###  Exercise: Skyline
+
+Reviewed the Italian translation of the exercise “Skyline”.
+Noted that “ha costruito un’entrata” is acceptable in general usage, but in construction terminology the more precise term is “ingresso”.
+No other issues found; the rest of the translation works well.
