@@ -47,7 +47,7 @@ My work ensured that the Italian localisation was coherent, polished, and aligne
 
 The Italian localisation achieved a strong level of clarity, coherence, and consistency. My contributions helped prepare the language for the final bulk‑translation phase, ensuring that the material was polished, reliable, and ready for wider deployment.
 
-## Personal Note**
+## Personal Note
 
 I contributed as a volunteer, drawing on my background in teaching Italian to foreign learners, IT support, and ESOL. I am currently following the full‑stack path with CYF. This project offered a valuable opportunity to collaborate with an international open‑source community and to work on real educational content, strengthening both my linguistic and technical skills.
 
